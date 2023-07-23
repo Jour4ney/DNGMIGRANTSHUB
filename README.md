@@ -38,8 +38,11 @@ Visit the live site at [DNG MIGRANTS HUB](HTTPS://)
   *[Cloning the Repository](#cloning-the-repository)
 
   *[Credits](#credits)
+  
     *[Content](#content)
+    
     *[Code](#content)
+    
     *[Media](#code)
   
   
