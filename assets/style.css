@@ -1,5 +1,6 @@
 /* google fonts link */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +13,7 @@ body {
     color: #3a3a3a;
 }
 
-/* Header styling */
+/* Header  and slogan styling */
 h1,
 h5 {
     font-family: "Oswlad", sans-serif;
@@ -24,8 +25,23 @@ h5 {
 }
 
 logo {
-     font-size: 280px;
+    font-size: 280px;
     float: center;
 
 
+
+}
+
+/* navigation menu */
+#menu {
+    font-size: 100;
+    letter-spacing: 4px;
+
+
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+    list-style: none;
 }
